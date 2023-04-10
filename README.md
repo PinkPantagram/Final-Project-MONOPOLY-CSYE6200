@@ -1,1 +1,1 @@
-# Final-Project-MONOPOLY-CSYE6200
+# Project-MONOPOLY-CSYE6200
